@@ -5,4 +5,9 @@ private leetcode answer record
 
 按照leetcode类型做分类
 
+包含章节：
+动态规划
+二分
+DFS+回溯
+
 
